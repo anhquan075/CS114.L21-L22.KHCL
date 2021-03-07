@@ -7,8 +7,11 @@
 # Danh sách thành viên:
 - [Nguyễn Lê Anh Quân](https://github.com/anhquan075 "Quân's github") - 19522081
 - [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github") - 19522315
+- [Phan Thành Nhân](https://github.com/pthanhnhan "Nhân's github") - 19521944 
 # [Assignments](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments "Assignments")
 - [Assginment 1](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments/Assignments_1)
 - [Assginment 2](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments/Assignments_2)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+# Final Project:
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
