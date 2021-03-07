@@ -5,9 +5,9 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/graphs/contributors/)
 # Danh sách thành viên:
-- [Nguyễn Lê Anh Quân](https://github.com/anhquan075 "Quân's github") - 19522081
-- [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github") - 19522315
-- [Phan Thành Nhân](https://github.com/pthanhnhan "Nhân's github") - 19521944 
+- [Nguyễn Lê Anh Quân](https://github.com/anhquan075 "Quân's github") - 19522081 | CS114.L22.KHCL
+- [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github") - 19522315 | CS114.L22.KHCL
+- [Phan Thành Nhân](https://github.com/pthanhnhan "Nhân's github") - 19521944 | CS114.L21.KHCL
 # [Assignments](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments "Assignments")
 - [Assginment 1](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments/Assignments_1)
 - [Assginment 2](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments/Assignments_2)
