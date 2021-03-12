@@ -1,19 +1,19 @@
-a=list(map(str,input().split()))
-t=[0]*len(a)
+A=list(map(str,input().split()))
+t=[0]*len(A)
 str=["lios","liala","etr","etra","initis","inites"]
 
-if len(a)==1:
-    for i in range(6):
-        if a[0].endswith(str[i]):
+if len(A)==1:
+    for i in str:
+        if A[0].endswith(i):
             print("YES")
             exit(0)
 
     print("NO")
     exit(0)
 
-for i in range(len(a)):
+for i in range(len(A)):
     for j in range(6):
-        if a[i].endswith(str[j]):
+        if A[i].endswith(str[j]):
             t[i]=j+1
             break
 
@@ -22,7 +22,6 @@ for i in range(len(a)):
         print("NO")
         exit(0)
 
-#all the t[]'s should be either or odd
 rem=t[0]%2
 for i in range(len(t)):
     if t[i]%2!=rem:
