@@ -24,7 +24,7 @@ while True:
             A.remove(l[1])
     
     elif l[0] == 5:
-        if ans:
+        if A:
             A.pop(0)
     
     else:
