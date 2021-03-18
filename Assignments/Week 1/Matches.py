@@ -1,6 +1,6 @@
-t = int(input())
+q = int(input())
 
-for i in range(t):
+for i in range(q):
     n = int(input())
     if n == 2:
         print('2')

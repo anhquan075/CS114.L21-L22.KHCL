@@ -4,6 +4,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/graphs/contributors/)
+![alt text](https://img.shields.io/badge/Laguage-Python-green)
+
 # Danh sách thành viên:
 - [Nguyễn Lê Anh Quân](https://github.com/anhquan075 "Quân's github") - 19522081 | CS114.L22.KHCL
 - [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github") - 19522315 | CS114.L22.KHCL
