@@ -6,6 +6,7 @@ for k in range(q):
   t = input()
   flag = False
 
+
   for i in s:
     if flag == False:
       for j in t:
