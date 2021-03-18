@@ -5,7 +5,6 @@ for k in range(n):
   s = input()
   t = input()
   flag = False
-
   for i in s:
     if flag == False:
       for j in t:
@@ -14,7 +13,7 @@ for k in range(n):
     else:
       break
 
-  if flag == True:
+  if flag:
     result.append('YES')
   else:
     result.append('NO')
