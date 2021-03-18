@@ -19,3 +19,5 @@ for i in range(t,b+1):
 
 for i in range(b+1,n):
     print(*x) 
+
+
