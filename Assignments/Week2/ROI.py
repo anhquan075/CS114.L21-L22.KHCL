@@ -18,6 +18,4 @@ for i in range(t,b+1):
     print(*(trai + arr[i][l:r+1] + phai))
 
 for i in range(b+1,n):
-    print(*x) 
-
-
+    print(*x)
