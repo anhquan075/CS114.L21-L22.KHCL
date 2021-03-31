@@ -11,8 +11,9 @@
 - [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github") - 19522315 | CS114.L22.KHCL
 - [Phan Thành Nhân](https://github.com/pthanhnhan "Nhân's github") - 19521944 | CS114.L21.KHCL
 # [Assignments](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments "Assignments")
-- [Assginment 1](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week1)
-- [Assginment 2](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week2)
+- [Week 1](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week1)
+- [Week 2](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week2)
+- [Week 3](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week3)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # Final Project:
