@@ -1,80 +1,58 @@
-from collections import *
+from sys import stdin
+from collections import deque
 
+class Node:
+    def __init__(self, data = None, left = None, right = None):
+        self.data = data
+        self.left = left
+        self.right = right
 
-def read(str='i'):  # return read("int")
-    if(str == "float"):
-        return map(float, input().split())
-    return map(int, input().split())
+class bst:
+    def __init__(self, root = None):
+        self.root = Node(root)
 
-
-def ReadArr():
-    return [int(x) for x in input().split()]
-
-
-class Node(object):
-    def __init__(self, val):
-        self.data = val
-        self.left = None
-        self.right = None
-
-
-class Tree(object):#Class cây tìm kiếm nhị phân.
-    """docstring for Tree"""
-
-    def __init__(self):
-        self.root = None
-
-    def insert(self, val): #Hàm insert dùng để thêm 1 phần tử vào cây.
-        if self.root is None:
-            self.root = Node(val)
-            return
-        else:
-            temp = self.root
-            while temp:
-                if temp.data == val:
-                    return
-                elif temp.data > val:
-                    if temp.left is None:
-                        temp.left = Node(val)
-                    else:
-                        temp = temp.left
-                else:
-                    if temp.right is None:
-                        temp.right = Node(val)
-                    else:
-                        temp = temp.right
-
-    def __countHeight__(self, root): #Thủ tục đệ quy tính chiều cao của cây.
-        if root is None: # nếu node rỗng thì trả về giá trị 0
-            return 0
-
-        left = self.__countHeight__(root.left) + 1 # Duyệt chiều cao node bên trái
-        right = self.__countHeight__(root.right) + 1 # Duyệt chiều cao node bên phải.
-        return max(left, right) # Chiều cao lớn nhất của 2 nhánh sẽ là chiều cao của cây.
-
-    def countHeigh(self):# Gọi thủ tục đệ quy trả lời truy vấn chiều cao của cây.
-        return self.__countHeight__(self.root)
-
-
-if __name__ == '__main__':
-    T = Tree()
-    Q = deque()
-    check = [0]*1000
-    while True:
-        a = ReadArr()
-        if a[0] == 3:
-            break
-        elif a[0] == 0:
-            Q.appendleft(a[1])
-            check[a[1]] = 1
-        elif a[0] == 1:
-            Q.append(a[1])
-            check[a[1]] = 1
-        else:
-            if check[a[1]]:
-                Q.insert(Q.index(a[1])+1, a[2])
+    def insert(self, data, node):
+        if (node == None):
+            node = Node(data)
+            return True
+        
+        if data < node.data:
+            if (node.left == None):
+                node.left = Node(data)
             else:
-                Q.append(a[2])
-    for x in Q:
-        T.insert(x)
-    print(T.countHeigh())
+                self.insert(data, node.left)
+        elif data > node.data:
+            if (node.right == None):
+                node.right = Node(data)
+            else:
+                self.insert(data, node.right)
+
+    def level(self, node):
+        if (node == None):  return 0
+        return max(self.level(node.left), self.level(node.right)) + 1   
+
+# Driver code
+arr = deque()
+while True:
+    try:
+        inp = [int(i) for i in stdin.readline().split()]
+        if (inp[0] == 3): 
+            break
+        elif (inp[0] == 0): 
+            arr.appendleft(inp[1])
+        elif (inp[0] == 1): 
+            arr.append(inp[1])
+        elif (inp[0] == 2): 
+            if (inp[1] in arr):
+                arr.insert(arr.index(inp[1])+1, inp[2])
+            else:
+                arr.appendleft(inp[2])
+    except:
+        continue
+
+
+tree = bst()
+root = Node(arr[0])
+for i in arr:
+    tree.insert(i, root)
+print(tree.level(root))
