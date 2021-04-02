@@ -1,10 +1,11 @@
-n = int(input())
+q = int(input())
 result = []
 
 for k in range(n):
-  s = input()
+      s = input()
   t = input()
   flag = False
+
   for i in s:
     if flag == False:
       for j in t:
