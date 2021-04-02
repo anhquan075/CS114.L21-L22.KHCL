@@ -14,6 +14,7 @@
 - [Week 1](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week1)
 - [Week 2](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week2)
 - [Week 3](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week3)
+- [Week 4](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week4)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # Final Project:
