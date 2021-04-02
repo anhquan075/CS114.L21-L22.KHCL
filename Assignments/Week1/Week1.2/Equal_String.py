@@ -1,8 +1,8 @@
 q = int(input())
 result = []
 
-for k in range(q):
-  s = input()
+for k in range(n):
+      s = input()
   t = input()
   flag = False
 
@@ -11,12 +11,10 @@ for k in range(q):
       for j in t:
         if i == j:
           flag = True
-          
-
     else:
       break
 
-  if flag == True:
+  if flag:
     result.append('YES')
   else:
     result.append('NO')
