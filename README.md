@@ -3,7 +3,6 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/blob/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/graphs/contributors/)
 ![alt text](https://img.shields.io/badge/Laguage-Python-green)
 
 # Danh sách thành viên:
