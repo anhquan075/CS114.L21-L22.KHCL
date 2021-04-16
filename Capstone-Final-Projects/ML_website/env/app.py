@@ -4,7 +4,7 @@ import os
 
 app= Flask(__name__)
 
-app.config["IMAGE_UPLOADS"] = r"C:\ML_website\env\static\img\UPLOAD"
+app.config["IMAGE_UPLOADS"] = r"/home/mmlab/github/CS114.L22.KHCL/Capstone-Final-Projects/ML_website/env/static/img/UPLOAD/"
 
 @app.route('/',methods=["GET","POST"])
 def index():
