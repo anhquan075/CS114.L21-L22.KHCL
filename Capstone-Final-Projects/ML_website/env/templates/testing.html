@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Full Screen Hero Background Image</title>
+    
+    <style>
+        *{
+            padding:0;
+            margin:0;
+            box-sizing: border-box;
+        }
+        
+        body{
+            background:#eee;
+            font-family:sans-serif;
+        }
+        
+        .banner-area{
+            width:100%;
+            height:100vh;
+            background-image:linear-gradient(rgba(100, 45, 45, 0.5),rgba(238, 234, 234, 0.5)), url(backg.jpg);
+            background-size:cover;
+        }        
+        
+        .content-area{
+            height:100%;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+       .content{
+            text-align: center;
+        }
+        
+        .content h1{
+            font-size:80px;
+            color:#fff;
+        }
+        
+        .content p{
+            font-size:30px;
+            color:#ddd;
+        }
+        
+        .content .btn{
+            border:none;
+            outline:none;
+            padding:15px;
+            margin-top:100px;
+            border-radius: 4px;
+            color:#eee;
+            font-size: 18px;
+            cursor: pointer;    
+            background:#222;             
+        }
+        
+        /* main area */
+        
+        .container {
+            width: 70%;
+            margin: 50px auto;
+            padding: 10px;
+}
+
+        .container .box {
+            width: 100%;
+            padding: 50px;
+            background: #fff;
+            margin-top: 50px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px -3px rgba(0, 0, 0, .1);
+        }
+    </style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="banner-area">
+        <div class="content-area">
+           <div class="content">
+            <img style="max-width: 1000px;" src="{{url_for('static' , filename = 'img/logo-uit.png') }}" alt="">
+              <h1>UPLOAD A PICTURE</h1>
+              
+              <p> Chẩn đoán bệnh qua hình ảnh </p>
+              <div class="container">
+                <div class="row">
+                    <div class = "col">
+                        
+                        <hr>
+                        <form action="/uploade-image" method="POST" enctype = "multipart/form-data">
+                            
+                            <div class = "form-group">
+                                <label style ="color: rgb(17, 0, 250) ">Select image</label>
+                                <div class="custom-file">
+                                    <input type="file" class="custom-file-input" name="image" id="image">
+                                    <label style ="color: beige " class="custom-file-label" for="image">Select image ... </label>
+            
+                                </div>
+                            </div>
+                            <button style="color: burlywood;" type = "submit" class="btn btn-primary">upload</button>
+                        </form>
+            
+                    </div>
+                </div>
+                <img style="max-width: 100px;" src="{{url_for('static' , filename = 'img/cross.png') }}" alt="">
+            </div>
+           </div>
+        </div>
+    </div>
+    
+    
+<!--main area-->
+  
+    
+</body>
+</html>
