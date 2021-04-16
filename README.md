@@ -12,10 +12,12 @@
 | [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github")   | 19522315        | CS114.L22.KHCL      |
 | [Phan Thành Nhân](https://github.com/pthanhnhan "Nhân's github") | 19521944 | CS114.L21.KHCL|
 # [Assignments](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments "Assignments")
-- [Week 1](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week1)
-- [Week 2](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week2)
-- [Week 3](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week3)
-- [Week 4](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week4)
+
+- [x] [Week 1](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week1)
+- [x] [Week 2](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week2)
+- [x] [Week 3](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week3)
+- [x] [Week 4](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week4)
+- [x] [Week 5](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week5)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # Final Project:
