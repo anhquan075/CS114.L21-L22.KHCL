@@ -5,7 +5,7 @@
 | [Nguyễn Lê Anh Quân](https://github.com/anhquan075 "Quân's github")      | 19522081       | CS114.L22.KHCL  |
 | [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github")   | 19522315        | CS114.L22.KHCL      |
 | [Phan Thành Nhân](https://github.com/pthanhnhan "Nhân's github") | 19521944 | CS114.L21.KHCL|
-# Bài tập tuân 6: 
+# Bài tập tuần 6: 
 *Câu hỏi quá trình:
 Mỗi nhóm tìm dăm ba ví dụ về bài toán regression ***TRONG THỰC TẾ***
 Ghi rõ input, output và cách thu thập + xử lý data, commit vào github repository và dẫn link lên đây.
@@ -17,7 +17,7 @@ Có thể ghi ra giấy rồi chụp hình hoặc viết ở dạng Markdown.*
 
 **Thu thập data**:  
 
-**Xu ly data**:
+**Xử lý data**:
 
 ## **Ví du 2**: 
 **INPUT**: 
@@ -26,7 +26,7 @@ Có thể ghi ra giấy rồi chụp hình hoặc viết ở dạng Markdown.*
 
 **Thu thập data**:  
 
-**Xu ly data**:
+**Xử lý data**:
 
 ## **Ví du 3**: 
 
@@ -36,4 +36,4 @@ Có thể ghi ra giấy rồi chụp hình hoặc viết ở dạng Markdown.*
 
 **Thu thập data**:  
 
-**Xu ly data**:
+**Xử lý data**:
