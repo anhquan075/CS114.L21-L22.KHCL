@@ -43,7 +43,7 @@ Rất nhiều các chỉ số về những bộ phim trước như:
 Data dạng bảng thu được tại web: https://www.the-numbers.com/weekend-box-office-chart#box_office_weekend_table=od3. Chuyển data dạng bảng về file .csv.
 
 **Xử lý data**:
-Loại bỏ các bộ phim có các chỉ số bất hợp lý như doanh thu bằng 0 do có ngày công chiếu lớn hơn hiện tại, lọc bớt những bộ phim chỉ vừa công chiếu được 2 hoặc 3 tuần.
+Loại bỏ các bộ phim có các chỉ số bất hợp lý như: doanh thu bằng 0 do có ngày công chiếu lớn hơn hiện tại, lọc bớt những bộ phim chỉ vừa công chiếu trong khoảng 2 hoặc 3 tuần.
 Sau đó loại các cột thứ hạng phim, ngày phát hành, doanh thu trong nước. Do ta chỉ cần doanh thu, chi phí sản xuất và nhà sản xuất là 3 thuộc tính có vẻ quan trọng nhất trong việc dự đoán này.
 
 ## **Ví dụ 3**: 
