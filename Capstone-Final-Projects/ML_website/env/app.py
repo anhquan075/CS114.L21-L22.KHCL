@@ -21,7 +21,7 @@ def index():
         if request.files:
             image = request.files["image"]
             if allowed_file(image.filename):
-                image.save(os.path.join(app.config["IMAGE_UPLOADS"],image.filename))
+                image.save(os.path.join(app.config["IMAGE_UPLOADS"], image.filename))
                 flash("Image was saved")
             else:
                 flash('No selected file')
