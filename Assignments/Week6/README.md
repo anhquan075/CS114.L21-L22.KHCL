@@ -10,7 +10,7 @@
 Mỗi nhóm tìm dăm ba ví dụ về bài toán regression ***TRONG THỰC TẾ***
 Ghi rõ input, output và cách thu thập + xử lý data, commit vào github repository và dẫn link lên đây.
 Có thể ghi ra giấy rồi chụp hình hoặc viết ở dạng Markdown.*
-## **Ví du 1**:  Dự đoán doanh thu hàng năm của nhà hàng:
+## **Ví dụ 1**:  Dự đoán doanh thu hàng năm của nhà hàng:
 **INPUT**: 
 
 **OUTPUT**:
@@ -19,7 +19,7 @@ Có thể ghi ra giấy rồi chụp hình hoặc viết ở dạng Markdown.*
 
 **Xử lý data**:
 
-## **Ví du 2**: 
+## **Ví dụ 2**: 
 **INPUT**: 
 
 **OUTPUT**:
@@ -28,7 +28,7 @@ Có thể ghi ra giấy rồi chụp hình hoặc viết ở dạng Markdown.*
 
 **Xử lý data**:
 
-## **Ví du 3**: 
+## **Ví dụ 3**: 
 
 **INPUT**: 
 
