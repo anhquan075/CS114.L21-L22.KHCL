@@ -24,13 +24,27 @@ Thông thường nhà trường sẽ post danh sách các sinh viên đạt chu�
 - Loại bỏ các điểm dữ liệu bị trống ( null ) hoặc thay thế chúng bằng độ lệch chuẩn của đặc tính đó để tránh việc mô hình học những điểm dữ liệu lỗi kiến cho sai lệch trong việc dự đoán.
 
 ## **Ví dụ 2**: 
+## **Ví dụ 2**: Dự đoán doanh thu của 1 bộ phim mới ra mắt cho bài đăng tạp chí:
 **INPUT**: 
+Các chỉ số về bộ phim đó như:
+    +Chi phí sản xuất
+    +Nhà sản xuất
 
 **OUTPUT**:
+Doanh thu của bộ phim chính là mục tiêu cần tìm ra
 
 **Thu thập data**:  
+Rất nhiều các chỉ số về những bộ phim trước như:
+    +Doanh thu đạt được
+    +Chi phí sản xuất
+    +Nhà sản xuất
+    +Ngày công chiếu
+    +...
+Data dạng bảng thu được tại web: https://www.the-numbers.com/weekend-box-office-chart#box_office_weekend_table=od3. Chuyển data dạng bảng về file .csv.
 
 **Xử lý data**:
+Loại bỏ các bộ phim có các chỉ số bất hợp lý như: doanh thu bằng 0 do có ngày công chiếu lớn hơn hiện tại, lọc bớt những bộ phim chỉ vừa công chiếu trong khoảng 2 hoặc 3 tuần.
+Sau đó loại các cột thứ hạng phim, ngày phát hành, doanh thu trong nước. Do ta chỉ cần doanh thu, chi phí sản xuất và nhà sản xuất là 3 thuộc tính có vẻ quan trọng nhất trong việc dự đoán này.
 
 ## **Ví dụ 3**: 
 
