@@ -26,19 +26,20 @@ Thông thường nhà trường sẽ post danh sách các sinh viên đạt chu�
 ## **Ví dụ 2**: Dự đoán doanh thu của 1 bộ phim mới ra mắt cho bài đăng tạp chí:
 **INPUT**: 
 Các chỉ số về bộ phim đó như:
-    +Chi phí sản xuất
-    +Nhà sản xuất
+    + Chi phí sản xuất
+    + Nhà sản xuất
 
 **OUTPUT**:
 Dự đoán doanh thu của bộ phim chính là mục tiêu cần tìm ra
 
 **Thu thập data**:  
 Rất nhiều các chỉ số về những bộ phim trước như:
-    +Doanh thu đạt được
-    +Chi phí sản xuất
-    +Nhà sản xuất
-    +Ngày công chiếu
-    +...
+- Doanh thu đạt được
+-  Chi phí sản xuất
+-  Nhà sản xuất
+-  Ngày công chiếu
+-  ...
+  
 Data dạng bảng thu được tại web: https://www.the-numbers.com/weekend-box-office-chart#box_office_weekend_table=od3. Chuyển data dạng bảng về file .csv.
 
 **Xử lý data**:
@@ -49,24 +50,21 @@ Sau đó loại các cột thứ hạng phim, ngày phát hành, doanh thu trong
 ## **Ví dụ 3**: Dự đoán chất lượng của bánh trong một dây chuyền sản xuất:
 
 **INPUT**:
-	+ nhiệt độ của lò nướng 
-	+ thời gian ở trong lò 
-	+ thành phần của bột 
-	+ thời gian ủ bột 
-	+ nhiệt độ của môi trường trong nhà máy 
-	+ độ ẩm của môi trường 
-	+...
+- Nhiệt độ của lò nướng 
+- Thời gian ở trong lò 
+- Thành phần của bột 
+- Thời gian ủ bột 
+- Nhiệt độ của môi trường trong nhà máy 
+- Độ ẩm của môi trường 
+- ...
 
 **OUTPUT**:
  chất lượng của mẻ bánh ( độ ngon , độ gòn của bánh vv)
 
 **Thu thập data**:  
- tất cả các thông tin trên chúng ta đều có thể thu thập thủ công tại các nhà máy bánh , các nhà máy công nghiệp 
-luôn luôn đầu tư các hệ thống tracking để thu thập nhưng thông tin này và cũng như đội ngũ giám sát chất lượng sẽ 
-vô cùng chính xác theo dõi từng bước của quá trình . bước cuối là chất lượng , đây là một điểm mang tính chất khách quan , vậy tên ta sẽ cần 1 lượng người thử đủ rộng để không bị bias ,tuy nhiên ta ko thể đến 1 mẻ bánh làm ra lại đem đi ăn thử hết . Vậy ta phải đi tham khảo khách hàng mua bánh để cải thiện sản phẩm (feedback từ khách hàng).
-tổng quát các thông tin thành 1 file csv/json hoàn thiện .
+Tất cả các thông tin trên chúng ta đều có thể thu thập thủ công tại các nhà máy bánh , các nhà máy công nghiệp  luôn luôn đầu tư các hệ thống tracking để thu thập nhưng thông tin này và cũng như đội ngũ giám sát chất lượng sẽ  vô cùng chính xác theo dõi từng bước của quá trình . bước cuối là chất lượng , đây là một điểm mang tính chất khách quan , vậy tên ta sẽ cần 1 lượng người thử đủ rộng để không bị bias ,tuy nhiên ta ko thể đến 1 mẻ bánh làm ra lại đem đi ăn thử hết . Vậy ta phải đi tham khảo khách hàng mua bánh để cải thiện sản phẩm (feedback từ khách hàng). Tổng quát các thông tin thành 1 file csv/json hoàn thiện .
 
 **Xử lý data**:
- làm sạch dữ liệu bằng cách đồng bộ các dữ liệu về cùng 1 loại đơn vị do và làm tròn các thông số , loại bỏ các null 
+Làm sạch dữ liệu bằng cách đồng bộ các dữ liệu về cùng 1 loại đơn vị do và làm tròn các thông số , loại bỏ các null 
 và các thông tin thừa không đáng giá và không ảnh hưởng nhiều tới output .
 
