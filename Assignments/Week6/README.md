@@ -31,7 +31,7 @@ Các chỉ số về bộ phim đó như:
     +Nhà sản xuất
 
 **OUTPUT**:
-Doanh thu của bộ phim chính là mục tiêu cần tìm ra
+Dự đoán doanh thu của bộ phim chính là mục tiêu cần tìm ra
 
 **Thu thập data**:  
 Rất nhiều các chỉ số về những bộ phim trước như:
@@ -47,11 +47,26 @@ Loại bỏ các bộ phim có các chỉ số bất hợp lý như: doanh thu b
 Sau đó loại các cột thứ hạng phim, ngày phát hành, doanh thu trong nước. Do ta chỉ cần doanh thu, chi phí sản xuất và nhà sản xuất là 3 thuộc tính có vẻ quan trọng nhất trong việc dự đoán này.
 
 ## **Ví dụ 3**: 
+## **Ví dụ 3**: Dự đoán chất lượng của bánh trong một dây chuyền sản xuất:
 
-**INPUT**: 
-
+**INPUT**:
+	+ nhiệt độ của lò nướng 
+	+ thời gian ở trong lò 
+	+ thành phần của bột 
+	+ thời gian ủ bột 
+	+ nhiệt độ của môi trường trong nhà máy 
+	+ độ ẩm của môi trường 
+	+...
 **OUTPUT**:
+ chất lượng của mẻ bánh ( độ ngon , độ gòn của bánh vv)
 
 **Thu thập data**:  
+ tất cả các thông tin trên chúng ta đều có thể thu thập thủ công tại các nhà máy bánh , các nhà máy công nghiệp 
+luôn luôn đầu tư các hệ thống tracking để thu thập nhưng thông tin này và cũng như đội ngũ giám sát chất lượng sẽ 
+vô cùng chính xác theo dõi từng bước của quá trình . bước cuối là chất lượng , đây là một điểm mang tính chất khách quan , vậy tên ta sẽ cần 1 lượng người thử đủ rộng để không bị bias ,tuy nhiên ta ko thể đến 1 mẻ bánh làm ra lại đem đi ăn thử hết . Vậy ta phải đi tham khảo khách hàng mua bánh để cải thiện sản phẩm (feedback từ khách hàng).
+tổng quát các thông tin thành 1 file csv/json hoàn thiện .
 
 **Xử lý data**:
+ làm sạch dữ liệu bằng cách đồng bộ các dữ liệu về cùng 1 loại đơn vị do và làm tròn các thông số , loại bỏ các null 
+và các thông tin thừa không đáng giá và không ảnh hưởng nhiều tới output .
+
