@@ -18,6 +18,12 @@
 - [x] [Week 3](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week3)
 - [x] [Week 4](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week4)
 - [x] [Week 5](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week5)
+- [x] [Week 6](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week6)
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Week 9
+- [ ] Week 10
+- [ ] Week 11
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # [Final Project](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Capstone-Final-Projects/ "Final Project")
