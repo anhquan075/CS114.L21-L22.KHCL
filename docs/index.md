@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# CS114.L22.KHCL & CS114.L21.KHCL
+[![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/blob/master/LICENSE)
+![alt text](https://img.shields.io/badge/Laguage-Python-green)
 
-You can use the [editor on GitHub](https://github.com/anhquan075/CS114.L21-L22.KHCL/edit/dev/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Danh sách thành viên:
+| Họ và tên      | MSSV | Lớp     |
+| :---        |    :----:   |          ---: |
+| [Nguyễn Lê Anh Quân](https://github.com/anhquan075 "Quân's github")      | 19522081       | CS114.L22.KHCL  |
+| [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github")   | 19522315        | CS114.L22.KHCL      |
+| [Phan Thành Nhân](https://github.com/pthanhnhan "Nhân's github") | 19521944 | CS114.L21.KHCL|
+# [Assignments](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments "Assignments")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [x] [Week 1](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week1)
+- [x] [Week 2](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week2)
+- [x] [Week 3](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week3)
+- [x] [Week 4](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week4)
+- [x] [Week 5](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week5)
+- [x] [Week 6](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week6)
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Week 9
+- [ ] Week 10
+- [ ] Week 11
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anhquan075/CS114.L21-L22.KHCL/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+# [Final Project](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Capstone-Final-Projects/ "Final Project")
+- [Demo Website](https://aae6d35c64b6.ngrok.io/)
+ 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
