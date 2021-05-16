@@ -1,0 +1,32 @@
+# CS114.L22.KHCL & CS114.L21.KHCL
+[![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anhquan075/CS114.L22.KHCL/blob/master/LICENSE)
+![alt text](https://img.shields.io/badge/Laguage-Python-green)
+
+# Danh sách thành viên:
+| Họ và tên      | MSSV | Lớp     |
+| :---        |    :----:   |          ---: |
+| [Nguyễn Lê Anh Quân](https://github.com/anhquan075 "Quân's github")      | 19522081       | CS114.L22.KHCL  |
+| [Lý Hoàng Thuận](https://github.com/20-8-21-1-14 "Thuận's github")   | 19522315        | CS114.L22.KHCL      |
+| [Phan Thành Nhân](https://github.com/pthanhnhan "Nhân's github") | 19521944 | CS114.L21.KHCL|
+# [Assignments](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments "Assignments")
+
+- [x] [Week 1](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week1)
+- [x] [Week 2](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week2)
+- [x] [Week 3](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week3)
+- [x] [Week 4](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week4)
+- [x] [Week 5](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week5)
+- [x] [Week 6](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week6)
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Week 9
+- [ ] Week 10
+- [ ] Week 11
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+# [Final Project](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Capstone-Final-Projects/ "Final Project")
+- [Demo Website](https://aae6d35c64b6.ngrok.io/)
+ 
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
