@@ -1,4 +1,4 @@
-# [CS114.L22.KHCL & CS114.L21.KHCL] (https://anhquan075.github.io/CS114.L21-L22.KHCL/)
+# [CS114.L22.KHCL & CS114.L21.KHCL](https://anhquan075.github.io/CS114.L21-L22.KHCL/)
 [![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
