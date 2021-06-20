@@ -1,4 +1,4 @@
-# CS114.L22.KHCL & CS114.L21.KHCL
+# [CS114.L22.KHCL & CS114.L21.KHCL](https://anhquan075.github.io/CS114.L21-L22.KHCL/)
 [![Generic badge](https://img.shields.io/badge/Status-working-<COLOR>.svg)](https://shields.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/anhquan075/CS114.L22.KHCL/issues/new)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -19,9 +19,9 @@
 - [x] [Week 4](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week4)
 - [x] [Week 5](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week5)
 - [x] [Week 6](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week6)
-- [ ] Week 7
-- [ ] Week 8
-- [ ] Week 9
+- [x] [Week 7](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week7)
+- [x] [Week 8](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week8)
+- [x] [Week 9](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week9)
 - [ ] Week 10
 - [ ] Week 11
 
