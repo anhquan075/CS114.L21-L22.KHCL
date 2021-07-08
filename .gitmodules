@@ -1,0 +1,6 @@
+[submodule "AI_Hackathon2020"]
+	path = AI_Hackathon2020
+	url = https://github.com/anhquan075/AI_Hackathon2020
+[submodule "Final_Project/AI_Hackathon2020"]
+	path = Final_Project/AI_Hackathon2020
+	url = https://github.com/anhquan075/AI_Hackathon2020
