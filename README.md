@@ -28,6 +28,6 @@
 - [Demo Website](https://7c82de7c9a63.ngrok.io/aic?index=2&cls=7&imgpath=/home/mmlab/Downloads/test_set_A_lite/&labelpath=/home/mmlab/Downloads/)
 - [File report](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Final_Project/Report "Report")
 - [Slide](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Final_Project/Slide "Slide")
-- [Code](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Final_Project/AI_Hackathon2020 "Code")
+- [Code](https://github.com/anhquan075/AI_Hackathon2020/tree/e6d25e5878525a4ec0496588cfd3e7c3bab0c7cf"Code")
  
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
